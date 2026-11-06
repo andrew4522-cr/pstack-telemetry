@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.env
+*.db
+decisions.tsv
+reflect_proposals.json
+REFLECT_REPORT.md
+learned_generic_prefixes.json
+learned_pitch_performance.json
+.pytest_cache/
